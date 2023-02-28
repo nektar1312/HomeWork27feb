@@ -60,7 +60,7 @@ body{
 .header__tell-link::before {
     content: "";
     position: absolute;
-    background-image: url(/images/Assistanceicon.svg);
+    background-image: url(./Assistanceicon.svg);
     width: 40px;
     height: 40px;
     top: 0;
